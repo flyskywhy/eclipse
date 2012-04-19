@@ -17,7 +17,6 @@ org.eclipse.ant.launching,1.0.101.v20120110-1739,plugins/org.eclipse.ant.launchi
 org.eclipse.ant.ui,3.5.101.v20120110-1739,plugins/org.eclipse.ant.ui_3.5.101.v20120110-1739.jar,4,false
 org.eclipse.compare,3.5.202.R37x_v20111109-0800,plugins/org.eclipse.compare_3.5.202.R37x_v20111109-0800.jar,4,false
 org.eclipse.compare.core,3.5.200.I20110208-0800,plugins/org.eclipse.compare.core_3.5.200.I20110208-0800.jar,4,false
-org.eclipse.compare.win32,1.0.200.I20110510-0800,plugins/org.eclipse.compare.win32_1.0.200.I20110510-0800.jar,4,false
 org.eclipse.core.boot,3.1.200.v20100505,plugins/org.eclipse.core.boot_3.1.200.v20100505.jar,4,false
 org.eclipse.core.commands,3.6.0.I20110111-0800,plugins/org.eclipse.core.commands_3.6.0.I20110111-0800.jar,4,false
 org.eclipse.core.contenttype,3.4.100.v20110423-0524,plugins/org.eclipse.core.contenttype_3.4.100.v20110423-0524.jar,4,false
@@ -29,12 +28,11 @@ org.eclipse.core.expressions,3.4.300.v20110228,plugins/org.eclipse.core.expressi
 org.eclipse.core.externaltools,1.0.100.v20111007_r372,plugins/org.eclipse.core.externaltools_1.0.100.v20111007_r372.jar,4,false
 org.eclipse.core.filebuffers,3.5.200.v20110928-1504,plugins/org.eclipse.core.filebuffers_3.5.200.v20110928-1504.jar,4,false
 org.eclipse.core.filesystem,1.3.100.v20110423-0524,plugins/org.eclipse.core.filesystem_1.3.100.v20110423-0524.jar,4,false
-org.eclipse.core.filesystem.win32.x86,1.1.300.v20110423-0524,plugins/org.eclipse.core.filesystem.win32.x86_1.1.300.v20110423-0524.jar,4,false
+org.eclipse.core.filesystem.linux.x86,1.4.0.v20110423-0524,plugins/org.eclipse.core.filesystem.linux.x86_1.4.0.v20110423-0524.jar,4,false
 org.eclipse.core.jobs,3.5.101.v20120113-1953,plugins/org.eclipse.core.jobs_3.5.101.v20120113-1953.jar,4,false
 org.eclipse.core.net,1.2.100.I20110511-0800,plugins/org.eclipse.core.net_1.2.100.I20110511-0800.jar,4,false
-org.eclipse.core.net.win32.x86,1.0.100.I20110331-0827,plugins/org.eclipse.core.net.win32.x86_1.0.100.I20110331-0827.jar,4,false
+org.eclipse.core.net.linux.x86,1.1.200.I20110419-0800,plugins/org.eclipse.core.net.linux.x86_1.1.200.I20110419-0800.jar,4,false
 org.eclipse.core.resources,3.7.101.v20120125-1505,plugins/org.eclipse.core.resources_3.7.101.v20120125-1505.jar,4,false
-org.eclipse.core.resources.win32.x86,3.5.100.v20110423-0524,plugins/org.eclipse.core.resources.win32.x86_3.5.100.v20110423-0524.jar,4,false
 org.eclipse.core.runtime,3.7.0.v20110110,plugins/org.eclipse.core.runtime_3.7.0.v20110110.jar,4,true
 org.eclipse.core.runtime.compatibility,3.2.100.v20100505,plugins/org.eclipse.core.runtime.compatibility_3.2.100.v20100505.jar,4,false
 org.eclipse.core.runtime.compatibility.auth,3.2.200.v20110110,plugins/org.eclipse.core.runtime.compatibility.auth_3.2.200.v20110110.jar,4,false
@@ -64,7 +62,7 @@ org.eclipse.equinox.http.servlet,1.1.200.v20110502,plugins/org.eclipse.equinox.h
 org.eclipse.equinox.jsp.jasper,1.0.300.v20110502,plugins/org.eclipse.equinox.jsp.jasper_1.0.300.v20110502.jar,4,false
 org.eclipse.equinox.jsp.jasper.registry,1.0.200.v20100503,plugins/org.eclipse.equinox.jsp.jasper.registry_1.0.200.v20100503.jar,4,false
 org.eclipse.equinox.launcher,1.2.0.v20110502,plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar,4,false
-org.eclipse.equinox.launcher.win32.win32.x86,1.1.100.v20110502,plugins/org.eclipse.equinox.launcher.win32.win32.x86_1.1.100.v20110502/,4,false
+org.eclipse.equinox.launcher.gtk.linux.x86,1.1.100.v20110505,plugins/org.eclipse.equinox.launcher.gtk.linux.x86_1.1.100.v20110505/,4,false
 org.eclipse.equinox.p2.artifact.repository,1.1.101.v20110815-1419,plugins/org.eclipse.equinox.p2.artifact.repository_1.1.101.v20110815-1419.jar,4,false
 org.eclipse.equinox.p2.console,1.0.300.v20110815-1419,plugins/org.eclipse.equinox.p2.console_1.0.300.v20110815-1419.jar,4,false
 org.eclipse.equinox.p2.core,2.1.1.v20120113-1346,plugins/org.eclipse.equinox.p2.core_2.1.1.v20120113-1346.jar,4,false
@@ -97,7 +95,6 @@ org.eclipse.equinox.preferences,3.4.2.v20120111-2020,plugins/org.eclipse.equinox
 org.eclipse.equinox.registry,3.5.101.R37x_v20110810-1611,plugins/org.eclipse.equinox.registry_3.5.101.R37x_v20110810-1611.jar,4,false
 org.eclipse.equinox.security,1.1.1.R37x_v20110822-1018,plugins/org.eclipse.equinox.security_1.1.1.R37x_v20110822-1018.jar,4,false
 org.eclipse.equinox.security.ui,1.1.0.v20101004,plugins/org.eclipse.equinox.security.ui_1.1.0.v20101004.jar,4,false
-org.eclipse.equinox.security.win32.x86,1.0.200.v20100503,plugins/org.eclipse.equinox.security.win32.x86_1.0.200.v20100503.jar,4,false
 org.eclipse.equinox.simpleconfigurator,1.0.200.v20110815-1438,plugins/org.eclipse.equinox.simpleconfigurator_1.0.200.v20110815-1438.jar,1,true
 org.eclipse.equinox.simpleconfigurator.manipulator,2.0.0.v20110815-1438,plugins/org.eclipse.equinox.simpleconfigurator.manipulator_2.0.0.v20110815-1438.jar,4,false
 org.eclipse.equinox.util,1.0.300.v20110502,plugins/org.eclipse.equinox.util_1.0.300.v20110502.jar,4,false
@@ -156,7 +153,7 @@ org.eclipse.rcp,3.7.2.v201202080800,plugins/org.eclipse.rcp_3.7.2.v201202080800.
 org.eclipse.sdk,3.7.2.v201202080800,plugins/org.eclipse.sdk_3.7.2.v201202080800/,4,false
 org.eclipse.search,3.7.0.v20110928-1504,plugins/org.eclipse.search_3.7.0.v20110928-1504.jar,4,false
 org.eclipse.swt,3.7.2.v3740f,plugins/org.eclipse.swt_3.7.2.v3740f.jar,4,false
-org.eclipse.swt.win32.win32.x86,3.7.2.v3740f,plugins/org.eclipse.swt.win32.win32.x86_3.7.2.v3740f.jar,4,false
+org.eclipse.swt.gtk.linux.x86,3.7.2.v3740f,plugins/org.eclipse.swt.gtk.linux.x86_3.7.2.v3740f.jar,4,false
 org.eclipse.team.core,3.6.0.I20110525-0800,plugins/org.eclipse.team.core_3.6.0.I20110525-0800.jar,4,false
 org.eclipse.team.cvs.core,3.3.400.I20110510-0800,plugins/org.eclipse.team.cvs.core_3.3.400.I20110510-0800.jar,4,false
 org.eclipse.team.cvs.ssh2,3.2.300.I20110511-0800,plugins/org.eclipse.team.cvs.ssh2_3.2.300.I20110511-0800.jar,4,false
@@ -181,13 +178,12 @@ org.eclipse.ui.presentations.r21,3.2.200.I20100517-1500,plugins/org.eclipse.ui.p
 org.eclipse.ui.views,3.6.0.v20110928-1505,plugins/org.eclipse.ui.views_3.6.0.v20110928-1505.jar,4,false
 org.eclipse.ui.views.log,1.0.200.v20110404,plugins/org.eclipse.ui.views.log_1.0.200.v20110404.jar,4,false
 org.eclipse.ui.views.properties.tabbed,3.5.200.v20110928-1505,plugins/org.eclipse.ui.views.properties.tabbed_3.5.200.v20110928-1505.jar,4,false
-org.eclipse.ui.win32,3.2.200.v20110928-1505,plugins/org.eclipse.ui.win32_3.2.200.v20110928-1505.jar,4,false
 org.eclipse.ui.workbench,3.7.1.v20120104-1859,plugins/org.eclipse.ui.workbench_3.7.1.v20120104-1859.jar,4,false
 org.eclipse.ui.workbench.compatibility,3.2.100.I20110413-1600,plugins/org.eclipse.ui.workbench.compatibility_3.2.100.I20110413-1600/,4,false
 org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,plugins/org.eclipse.ui.workbench.texteditor_3.7.0.v20110928-1504.jar,4,false
 org.eclipse.update.configurator,3.3.100.v20100512,plugins/org.eclipse.update.configurator_3.3.100.v20100512.jar,4,false
 org.eclipse.update.core,3.2.500.v20110330,plugins/org.eclipse.update.core_3.2.500.v20110330.jar,4,false
-org.eclipse.update.core.win32,3.2.200.v20100512,plugins/org.eclipse.update.core.win32_3.2.200.v20100512.jar,4,false
+org.eclipse.update.core.linux,3.2.200.v20100512,plugins/org.eclipse.update.core.linux_3.2.200.v20100512.jar,4,false
 org.eclipse.update.scheduler,3.2.300.v20100512,plugins/org.eclipse.update.scheduler_3.2.300.v20100512.jar,4,false
 org.eclipse.update.ui,3.2.300.v20100512,plugins/org.eclipse.update.ui_3.2.300.v20100512.jar,4,false
 org.hamcrest.core,1.1.0.v20090501071000,plugins/org.hamcrest.core_1.1.0.v20090501071000.jar,4,false
